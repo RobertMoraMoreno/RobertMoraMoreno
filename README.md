@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Paella](https://meme.fandom.com/es/wiki/Chamoy](https://github.com/RobertMoraMoreno/RobertMoraMoreno/blob/main/paella.jpg)
+![Paella](https://github.com/RobertMoraMoreno/RobertMoraMoreno/blob/main/paella.jpg)
 
 
 <!--
