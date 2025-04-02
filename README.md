@@ -1,4 +1,4 @@
-## Comidas Alguiñano 🧑🏼‍🍳
+## Comidas Arguiñano 🧑🏼‍🍳
 
 ![Paella](https://github.com/RobertMoraMoreno/RobertMoraMoreno/blob/main/paella.jpg)
 
