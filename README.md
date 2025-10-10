@@ -76,8 +76,8 @@ for(int i = 0; i < 8; i++) {
 }
 System.out.println("Tu contraseña segura: " + pass);
 ```
-### Qué hace 
+### Descripción 
 Genera una contraseña aleatoria de 8 caracteres combinando letras mayúsculas, minúsculas y números.
 
-### Por qué me gusta
+### Razón por la que me gusta
 Es práctico, breve y combina bucles, strings y generación de números aleatorios, mostrando fundamentos de Java que utilizo frecuentemente.
