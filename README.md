@@ -53,7 +53,7 @@ Este proyecto consiste en la creación de cuatro plantillas innovadoras diseñad
 
 - Lenguajes: **Java, Kotlin**  
 - UI/UX y diseño web: **Jetpack Compose, HTML, CSS**  
-- Bases de datos: **MySQL, SQLite**  
+- Bases de datos: **MySQL**  
 - Herramientas: **Android Studio, Git, GitHub, Visual Studio Code**  
 - Desarrollo de aplicaciones funcionales y diseño intuitivo  
 
