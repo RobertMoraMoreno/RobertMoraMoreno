@@ -1,93 +1,73 @@
-👋 Hola, soy Roberto Mora Moreno
+# 👋 Hola, soy **Roberto Mora Moreno**
+**Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) – 2º curso | 19 años**
 
-Estudiante de Desarrollo de Aplicaciones Multiplataforma (DAM) – 2º curso | 19 años
+---
 
-🎓 Formación Académica
+## 🎓 Formación Académica
 
-DAM – Desarrollo de Aplicaciones Multiplataforma (2º curso)
-Aprendizaje en:
+- **DAM – Desarrollo de Aplicaciones Multiplataforma (2º curso)**  
+  Aprendizaje en:
+  - **Programación:** Java, Kotlin
+  - **UI/UX y diseño de interfaces:** Jetpack Compose, HTML, CSS
+  - **Bases de datos:** MySQL, SQLite
+  - Desarrollo de aplicaciones móviles y de escritorio
 
-Programación: Java, Kotlin
+- **SMX – Sistemas Microinformáticos y Redes**  
+  - Administración de redes y servidores
+  - Montaje y mantenimiento de equipos
+  - Soporte técnico y resolución de incidencias
 
-UI/UX y diseño de interfaces: Jetpack Compose, HTML, CSS
+- **ESO – Educación Secundaria Obligatoria**
 
-Bases de datos: MySQL, SQLite
+---
 
-Desarrollo de aplicaciones móviles y de escritorio
+## 💼 Experiencia Profesional
 
-SMX – Sistemas Microinformáticos y Redes
+- **Tienda de informática “Informática Montserrat”**  
+  - Prácticas del medio
+  - Mantenimiento de equipos y asistencia técnica a clientes
+  - [Página web de la tienda](https://www.informaticamontserrat.com)
 
-Administración de redes y servidores
+- **Feria Valencia**  
+  - Desarrollo de una herramienta para enviar correos electrónicos con tarjetas visuales
+  - Uso de **MySQL** y tecnologías vistas en DAM
+  - Implementación con buen diseño y funcionalidad
+  - [Página oficial de Feria Valencia](https://www.feriavalencia.com/)
 
-Montaje y mantenimiento de equipos
+---
 
-Soporte técnico y resolución de incidencias
+## 📱 Proyecto Destacado
 
-ESO – Educación Secundaria Obligatoria
-
-💼 Experiencia Profesional
-
-Tienda de informática “Informática Montserrat”
-
-Prácticas del medio
-
-Mantenimiento de equipos y asistencia técnica a clientes
-
-Página web de la tienda
-
-Feria Valencia
-
-Desarrollo de una herramienta para enviar correos electrónicos con tarjetas visuales
-
-Uso de MySQL y tecnologías vistas en DAM
-
-Implementación con buen diseño y funcionalidad
-
-Página oficial de Feria Valencia
-
-📱 Proyecto Destacado
-Aplicación Bicis Disponibles
-
-Repositorio: https://github.com/RobertMoraMoreno/AplicacionBicisDisponibles
+### **Aplicación Bicis Disponibles**  
+Repositorio: [https://github.com/RobertMoraMoreno/AplicacionBicisDisponibles](https://github.com/RobertMoraMoreno/AplicacionBicisDisponibles)
 
 Una aplicación Android que permite consultar información sobre estaciones de bicicletas públicas en Valencia. Las funcionalidades incluyen:
+- Visualización de la dirección de cada estación.
+- Consulta del número de bicicletas disponibles.
+- Consulta del número de anclajes libres.
+- Localización de la estación en un mapa interactivo.
 
-Visualización de la dirección de cada estación.
+**Tecnologías utilizadas:**
+- Lenguaje: Kotlin
+- IDE: Android Studio
+- Arquitectura: MVVM (Model - ViewModel - UI)
+- UI: Jetpack Compose + Material 3
+- Navegación: Navigation Compose
+- Mapas: Google Maps API (Play Services Maps)
 
-Consulta del número de bicicletas disponibles.
+---
 
-Consulta del número de anclajes libres.
+## 🛠️ Habilidades Técnicas
 
-Localización de la estación en un mapa interactivo.
+- Lenguajes: **Java, Kotlin**
+- UI/UX y diseño web: **Jetpack Compose, HTML, CSS**
+- Bases de datos: **MySQL, SQLite**
+- Herramientas: **Android Studio, Git, GitHub, Visual Studio Code**
+- Desarrollo de aplicaciones funcionales y diseño intuitivo
 
-Tecnologías utilizadas:
+---
 
-Lenguaje: Kotlin
+## 📬 Contacto
 
-IDE: Android Studio
-
-Arquitectura: MVVM (Model - ViewModel - UI)
-
-UI: Jetpack Compose + Material 3
-
-Navegación: Navigation Compose
-
-Mapas: Google Maps API (Play Services Maps)
-
-🛠️ Habilidades Técnicas
-
-Lenguajes: Java, Kotlin
-
-UI/UX y diseño web: Jetpack Compose, HTML, CSS
-
-Bases de datos: MySQL, SQLite
-
-Herramientas: Android Studio, Git, GitHub, Visual Studio Code
-
-Desarrollo de aplicaciones funcionales y diseño intuitivo
-
-📬 Contacto
-
-Correo: robertomoramoreno3@gmail.com
-
-Teléfono: 621 263 540
+- Correo: robertomoramoreno3@gmail.com  
+- Teléfono: 621 263 540
