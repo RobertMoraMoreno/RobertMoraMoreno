@@ -59,6 +59,18 @@ Este proyecto consiste en la creación de cuatro plantillas innovadoras diseñad
 
 ---
 
+## 🤝 Habilidades Personales
+
+- **Adaptabilidad:** Me integro fácilmente en nuevos entornos y equipos de trabajo.  
+- **Responsabilidad:** Cumplo con las tareas asignadas y mantengo una actitud comprometida.  
+- **Trabajo en equipo:** Disfruto colaborando con otras personas y aportando ideas.  
+- **Autonomía:** Soy capaz de resolver problemas por mi cuenta y buscar soluciones efectivas.  
+- **Comunicación:** Escucho, comprendo y expreso mis ideas con claridad.  
+- **Actitud positiva:** Mantengo una mentalidad abierta y ganas constantes de aprender.  
+- **Organización:** Me gusta planificar el trabajo para ser más eficiente y cumplir plazos.  
+
+---
+
 ## 📬 Contacto
 
 - Correo: robertomoramoreno3@gmail.com  
