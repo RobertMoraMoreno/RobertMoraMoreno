@@ -74,22 +74,5 @@ Este proyecto consiste en la creación de cuatro plantillas innovadoras diseñad
 ## 📬 Contacto
 
 - Correo: robertomoramoreno3@gmail.com  
-- Teléfono: 621 263 540  
 
 ---
-
-## 💻 Código que utilizo frecuentemente
-
-```
-String chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
-String pass = "";
-for(int i = 0; i < 8; i++) {
-    pass += chars.charAt((int)(Math.random() * chars.length()));
-}
-System.out.println("Tu contraseña segura: " + pass);
-```
-### Descripción 
-- Genera una contraseña aleatoria de 8 caracteres combinando letras mayúsculas, minúsculas y números.
-
-### Razón por la que me gusta
-- Es práctico, breve y combina bucles, strings y generación de números aleatorios, mostrando fundamentos de Java que utilizo frecuentemente.
