@@ -86,8 +86,8 @@ Creación de cuatro plantillas innovadoras diseñadas para resaltar los eventos 
 ## 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobertMoraMoreno&show_icons=true&theme=radical&count_private=true" alt="Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RobertMoraMoreno&theme=radical" alt="Streak" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RobertMoraMoreno&show_icons=true&theme=radical" alt="Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=RobertMoraMoreno&theme=radical" alt="Streak" height="165"/>
 </p>
 
 <p align="center">
