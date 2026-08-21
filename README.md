@@ -83,19 +83,6 @@ Creación de cuatro plantillas innovadoras diseñadas para resaltar los eventos 
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobertMoraMoreno&show_icons=true&theme=radical" alt="Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=RobertMoraMoreno&theme=radical" alt="Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertMoraMoreno&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
-
 ## 🤝 Habilidades Personales
 
 | Habilidad | Descripción |
